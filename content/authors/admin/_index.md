@@ -14,13 +14,14 @@ organizations:
   url: http://www.iitkgp.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Reinforcement Learning, Robotics, consulting.
+bio: My research interests include Reinforcement Learning, Robotics, Consulting.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multi-Agent Reinforcement Learning
+- Hand Manipulation
+- Human-Robot Interaction
+- Natural Language Processing
 
 # Education to show in About widget
 education:
@@ -70,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am Debajit Chakraborty, Final Year undergraduate student of the Department of Electronics and Communication Engineering at IIT Kharagpur.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hi! I am Debajit Chakraborty, Final Year undergraduate student of the Department of Electronics and Communication Engineering at IIT Kharagpur. I am primarily interested in developing task-agnostic Robotic Manipulation behaviors of complex industrial robots and scalable Multi-Agent Reinforcement Learning. I have been collaborating with  {{< staticref "https://vikashplus.github.io/AboutMe.html" "newtab" >}}Dr Vikash Kumar{{< /staticref >}} for investigating Robotic Maniplation algorithms across multiple benchmarks. I am also working with {{< staticref "http://www.iitkgp.ac.in/department/CS/faculty/cs-ppchak" "newtab" >}}Dr Partha Pratim Chakraborty{{< /staticref >}} on furthering the expanse of scalable Multi-Agent Reinforcement Learning.
+ 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}} here.
